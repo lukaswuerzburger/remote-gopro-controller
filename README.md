@@ -1,4 +1,4 @@
-# remote-gopro-controller
+# Remote GoPro Controller
 
 This is a project to build a software that triggers GoPro features from another machine using a Raspberry Pi as the controller in the middle. Since the GoPro API is only available via Wifi the Raspberry Pi needs to handle Ethernet and Wifi at the same time (Check out [Development Environment](#development-environment)).
 
